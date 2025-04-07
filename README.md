@@ -2,4 +2,4 @@
 
 ![Sign up preview](preview.png)
 
-Prototype [github.io/ui-sign-up](https://myrepo.github.io/ui-sign-up/)
+Prototype [github.io/ui-sign-up](https://lebazeraus.github.io/ui-sign-up/)
